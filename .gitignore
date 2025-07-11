@@ -90,4 +90,4 @@ mlflow/
 # 기타
 *.swp
 *.swo
-*~ 
+*~ data/raw/train.csv
