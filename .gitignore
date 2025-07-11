@@ -1,4 +1,4 @@
-# 임시 작업 디렉토리
+# 임시 작업 디렉토리 팀원 개인 로컬 폴더명명
 james_temp/
 
 # Python 가상환경
@@ -44,9 +44,19 @@ lib64/
 *.xls
 *.db
 *.sqlite3
+*.json
+*.npy
+*.npz
+*.parquet
+*.feather
+*.arrow
 
 # 로그 파일
 *.log
+logs/
+tensorboard_logs/
+mlruns/
+wandb/
 
 # 환경 설정 파일
 .env
@@ -57,11 +67,38 @@ lib64/
 .DS_Store
 Thumbs.db
 
-# 모델 파일 (필요한 경우 주석 처리)
+# 모델 파일 및 체크포인트
 *.h5
 *.pkl
 *.joblib
 *.model
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.pb
+checkpoints/
+saved_models/
+pretrained_models/
+
+# 실험 결과 및 메트릭
+results/
+metrics/
+experiments/
+evaluation/
+
+# 캐시 및 임시 파일
+.cache/
+tmp/
+temp/
+
+# MLflow 관련
+mlruns/
+mlflow/
+
+# DVC (Data Version Control) 관련
+.dvc/
+*.dvc
 
 # 기타
 *.swp
