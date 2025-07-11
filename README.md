@@ -25,8 +25,68 @@
 ## 2. Components
 
 ### Directory
+```
+project/
+├── notebooks/                 # 주피터 노트북 작업 공간
+│   ├── user1/                # 개인 작업 공간
+│   ├── user2/
+│   ├── user3/
+│   ├── user4/
+│   └── user5/
+│
+├── data/                     # 공유 데이터
+│   ├── raw/                  # 원본 데이터
+│   ├── processed/            # 전처리된 데이터
+│   └── external/             # 외부 데이터
+│
+├── src/                      # 소스 코드
+│   ├── data/                 # 데이터 처리
+│   ├── features/             # 피처 엔지니어링
+│   ├── models/               # 모델 정의
+│   └── utils/                # 유틸리티 함수
+│
+├── experiments/              # 실험 결과 저장
+│   ├── user1/
+│   ├── user2/
+│   ├── user3/
+│   ├── user4/
+│   └── user5/
+│
+├── models/                   # 학습된 모델 저장
+│   ├── user1/
+│   ├── user2/
+│   ├── user3/
+│   ├── user4/
+│   └── user5/
+│
+├── .gitignore               # Git 제외 파일 설정
+├── environment.yml          # Conda 환경 설정
+└── requirements.txt         # pip 패키지 목록
+```
 
-- _Insert your directory structure_
+### Environment Setup
+
+#### Conda 환경 설정
+```bash
+# Conda 환경 생성 및 활성화
+conda env create -f environment.yml
+conda activate real_estate_pred
+```
+
+#### pip 환경 설정
+```bash
+# 가상환경 생성
+python -m venv venv
+
+# 가상환경 활성화
+# Windows
+.\venv\Scripts\activate
+# Linux/Mac
+source venv/bin/activate
+
+# 패키지 설치
+pip install -r requirements.txt
+```
 
 ## 3. Data descrption
 
