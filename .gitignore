@@ -1,0 +1,69 @@
+# 임시 작업 디렉토리
+james_temp/
+
+# Python 가상환경
+venv/
+env/
+.env/
+.venv/
+
+# Python 캐시 파일
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 분포 / 패키징
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VS Code 설정
+.vscode/
+*.code-workspace
+
+# PyCharm 설정
+.idea/
+
+# 데이터 파일 (필요한 경우 주석 처리)
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite3
+
+# 로그 파일
+*.log
+
+# 환경 설정 파일
+.env
+.env.local
+.env.*.local
+
+# 운영체제 파일
+.DS_Store
+Thumbs.db
+
+# 모델 파일 (필요한 경우 주석 처리)
+*.h5
+*.pkl
+*.joblib
+*.model
+
+# 기타
+*.swp
+*.swo
+*~ 
