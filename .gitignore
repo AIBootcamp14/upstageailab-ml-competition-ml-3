@@ -38,19 +38,6 @@ lib64/
 # PyCharm 설정
 .idea/
 
-# 데이터 파일 (필요한 경우 주석 처리)
-*.csv
-*.xlsx
-*.xls
-*.db
-*.sqlite3
-*.json
-*.npy
-*.npz
-*.parquet
-*.feather
-*.arrow
-
 # 로그 파일
 *.log
 logs/
@@ -84,7 +71,7 @@ pretrained_models/
 # 실험 결과 및 메트릭
 results/
 metrics/
-experiments/
+#experiments/
 evaluation/
 
 # 캐시 및 임시 파일
