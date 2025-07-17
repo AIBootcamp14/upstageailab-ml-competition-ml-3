@@ -1,11 +1,11 @@
-# Title (Please modify the title)
+# [채린이네] Team 
 
-## Team
+## 최대한 많이 넘어져 보자
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| ![문채린](https://avatars.githubusercontent.com/u/156163982?v=4) | <img src="https://avatars.githubusercontent.com/u/66048976?v=4" width="150" style="border-radius:50%;">  | ![김상윤](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김동준](https://avatars.githubusercontent.com/u/156163982?v=4) | ![정서우](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [박패캠](https://github.com/UpstageAILab)             |            [이패캠](https://github.com/UpstageAILab)             |            [최패캠](https://github.com/UpstageAILab)             |            [김패캠](https://github.com/UpstageAILab)             |            [오패캠](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+|            [문채린](https://github.com/UpstageAILab)             |            [박재홍](https://github.com/woghd8503)             |            [김상윤](https://github.com/UpstageAILab)             |            [김동준](https://github.com/UpstageAILab)             |            [정서우](https://github.com/UpstageAILab)             |
+|                            팀장, 데이터 전처리 및 모델링                             |                            개발 환경 세팅                             |                            데이터 전처리 및 모델링                             |                            데이터 전처리 및 모델링                             |                            데이터 전처리 및 모델링                             |
 
 ## 1. Competiton Info
 
