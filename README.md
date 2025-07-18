@@ -50,7 +50,7 @@ project/
 │ └── utils/     # 유틸리티 함수
 │
 ├── experiments/ # 실험 결과 저장
-├── models/ # 학습된 모델 저장
+├── models/      # 학습된 모델 저장
 ├── .gitignore
 ├── environment.yml
 └── requirements.txt
